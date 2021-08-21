@@ -5,6 +5,7 @@ Analyze website quality using data generated from Google Lighthouse, Pandas data
 ## Dependencies
 
 - Python >= 3.7
+- Jupyter Notebook or Lab
 - Google Lighthouse - Command Line (https://developers.google.com/web/tools/lighthouse/#cli)
 
 Generally Google Lighthouse can be installed via the following:
